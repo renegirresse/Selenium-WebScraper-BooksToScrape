@@ -6,8 +6,8 @@ https://github.com/user-attachments/assets/fe66a321-74d0-4c32-b2ae-78829da73ecb
 
 ## 📄 **Terminal Output & CSV Data**
 <img width="1439" height="822" alt="Image" src="https://github.com/user-attachments/assets/44dc896d-e072-4b61-a4a5-e32d99d7733d" />
-<p>
 
+##  **Project Overview** 
 This project demonstrates a robust web scraping solution built with **Selenium** and **Python**. It automates the extraction of book data from the "Books to Scrape" website (http://books.toscrape.com/), saves the collected information into a structured CSV file, and performs automated data quality validations.
 
 This project is ideal for showcasing skills in:
